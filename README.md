@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Neverm1ndEZ
 - 👀 I’m interested in music, movies, csgo, programming
 - 🌱 I’m currently learning general programming and basics
-- 💞️ I’m looking to collaborate on anything that i can. I'm looking for noob projects that i can use to broaden my knowledge in programming and algorithmic spectrum
+- 💞️ I’m looking to collaborate on anything that i can. I'm looking for projects that i can use to broaden my knowledge in programming and algorithmic spectrum
 - 📫 How to reach me: twitter @nevermind_ez
 
 <!---
